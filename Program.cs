@@ -20,9 +20,9 @@ namespace ConsoleApplication5
             }
             else if (vidDestinaciq == "Philippines")
             {
-                Console.WriteLine(Philippines(broiNoshtuvki,vidtransport));
+                Console.WriteLine(Philippines(broiNoshtuvki, vidtransport));
             }
-           
+
         }
 
         static double Miami(int noshtuvki, string transport)
